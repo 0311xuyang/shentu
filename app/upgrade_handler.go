@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	upgradeName = "v2.7.2"
+	upgradeName = "v2.8.0"
 )
 
 func (app ShentuApp) setUpgradeHandler() {
